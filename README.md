@@ -1,8 +1,8 @@
-- 👋 Hi, I’m priyanka.
-- 👀 I’m self motivated person.
-- 🌱 I’m currently learning Data Science.
+- 🙋‍♀️ Hi, I’m priyanka.
+- ✌️ I’m self motivated person.
+- 👩‍💻 I’m currently learning Data Science.
 - 🎓 Excel| SQL| Python|Tableau
-- 📫 srivastavapriyanka358@gmail.com
+- 📧 srivastavapriyanka358@gmail.com
 - 📃 https://www.linkedin.com/in/priyanka-srivastava-ba699221b/
 
 
