@@ -1,4 +1,4 @@
-- 🙋‍♀️ Hi, I’m priyanka.
+- 🙋‍♀️ Hi, I’m Priyanka.
 - ✌️ I’m self motivated person.
 - 👩‍💻 I’m currently learning Data Science.
 - 🎓 Excel| SQL| Python|Tableau
